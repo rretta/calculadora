@@ -4,7 +4,7 @@ Calculadora simple // Simple calculator
 
 
 FUN FACTS:
-- - its + design. Its color palette is calm and with an aesthetic of neuromorphism.
+Less is more design. Its color palette is calm and with an aesthetic of neuromorphism.
 
 TIP:
  ☼ You can change palettes with the button. ☽ 
