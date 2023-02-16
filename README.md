@@ -10,4 +10,4 @@ TIP:
  ☼ You can change palettes with the button. ☽ 
 
 
-LIVE https://fktpolice.github.io/calculadora/ 🔗
+LIVE https://calculadora-rretta.vercel.app/ 🔗
